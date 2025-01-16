@@ -1,7 +1,3 @@
----
-layout: default
-title: Abour me
----
 
 # Welcome to Arnav's Server 🌟
 
